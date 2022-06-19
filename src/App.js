@@ -86,7 +86,7 @@ function Nayok(props){
 
     borderRedius: '20px ',
 
-    margin: '20px'
+    margin: '30px'
 
     
   }
